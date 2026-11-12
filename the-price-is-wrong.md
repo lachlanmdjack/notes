@@ -82,6 +82,8 @@
 
 **This means that renewables generators are typically non-vertically integrated, private companies**
 
+**Governments have attempted to remove barriers of entry for generators, and establish quick grid connections.** 
+
 ### I. 
 
 > "But the basic story of electricity is the basic story of 'neoliberalisation' - the amalgam of processes whereby neoliberalism has effectively been engineered on the ground."
@@ -188,9 +190,11 @@
 
 ## 5. The Price Is Wrong
 
-**Focusing on lower construction costs/ LCOE alone fail to show whether renewables investment projects will succeed or fail...**  
+**Focusing on lower construction costs/ LCOE alone fail to show whether renewables investment projects will succeed or fail, as despite lowering relative costs.**
 
-### I. 
+**For vertically integrated utilities, lower LCOE may improve renewables generators projects' prospects, but for, typically, independent renewable generation companies, the decision is not which generator to invest in, but more so whether to invest or not to invest at all.**  
+
+### I. Expected profitability is the better metric than price/cost
 
 > "'Both effective supply and demand are regulated, through different channels, by expected profitability'. Should they not foresee profitability... capitalists do not invest"
 >
@@ -210,9 +214,7 @@
 >
 > "These [companies] typically have delivery obligations, and thus need to procure supply, and the choice they face is between electricity from different sources - renewable or not."
 
-> "As for the independent producer... just because it can generate power at a certain cost, there is no certainty that is has the necessary incentive to do so."
->
-> "The independent producer meanwhile does not have to develop the project, and a financial institution does not have to fund it."
+> "As for the independent producer... just because it can generate power at a certain cost, there is no certainty that is has the necessary incentive to do so... [they do] not have to develop the project, and a financial institution does not have to fund it."
 
 ### IV. Relationship between costs and revenues
 
@@ -222,12 +224,14 @@
 
 **Due to the non-dispatchable nature of renewables, they typically are forced to generate while power prices are lowest, especially for sites in regions with the highest concentration of renewables (Scotland for wind, Spain and Germany for solar)** 
 
+> #### Spacial
 > "The availability and cost of land vary enormously... from place to place. Where available land is abundant, it tends to be cheap."
 > 
 > "Developers of wind and solar power have a strong incentive to undertake development where land is cheapest."
 >
-> "The fact that renewables facilities are disproportionately located in relatively remote locations with relatively cheap land is on important reason why their LCOE is as low as it is."
+> "The fact that renewables facilities are disproportionately located in relatively remote locations with relatively cheap land is one important reason why their LCOE is as low as it is."
 
+> #### Temporal - Age and Timing
 > "One of the problems with the basic LCOE comparisons that are often made, however, is that they are rendered in temporal as well as spatial abstraction."
 >
 > "There exists a vast legacy infrastructure of conventional plants, much of the lifetime costs of which have already been incurred, 'sunk' costs... These old, particularly or completely amortised plants, which may very well have a high LCOE, are, in practice, at least if fuel costs are low, produce extremely cheap power."
@@ -236,27 +240,19 @@
 
 > "When companies set about developing wind and solar farms, and banks set about making decisions whether to finance those developments, LCOE numbers are, in reality, among the very furthest things from their minds."
 
-### VI. Projected revenue 
-
-> "In a depressed market environment, wind's favourable LCOE did not make the slightest bit of difference [to investment decisions, due to low power prices]."
-
 ## 6. The Wild West
 
 **In neoliberal power markets, spot markets are highly common and demonstrate high levels of price volatility. This volatility is a key concern for investors, fearful of non-guaranteed revenues to cover loan payback. Government support can thus enable either cost reduction or, (increasingly) more importantly, price stability.**
 
 > "In 2018, something remarkable happened to the UK's onshore wind industry... it was the lowest level of annual installation of new onshore wind generating capacity that the country had seen since 2011."
 >
-> The UK's RO scheme closed in 2017, "Denied, thus, any kind of 'market stabilisation mechanism', onshore wind... was abruptly subject to 'the volatility of the market'." (6.V)
+> The UK's RO scheme closed in 2017 and were ineligible for CfD, "Denied, thus, any kind of 'market stabilisation mechanism', onshore wind... was abruptly subject to 'the volatility of the market'." (6.V) 
 
-> "We have focused in this chapter on barriers to investment in renewables associated with uncertainty around expected revenues and profits, and rooted specifically in market and price volatility." (6.VI)
->
 > "In countries with liberalised electricity sectors featuring wholesale spot markets, a fundamental constraint on investment in renewables capacity is a lack of visibility and predictability with regard to expected profitability" via "electricity prices or the revenues of generators that sell into spot markets." (7.I)
 
 ### I. UK Spot Market characteristics
 
-> Single-clearing price mechanism: "Generators prepare bids for particular settlement periods of half-hourly generation, specifying the quantity of generation... and the price at which they are willing to sell it." + "All electricity traded for a particular settlement period is priced equally, and this uniform price represents the bid offered by the highest-bid generator amount those dispatched."
->
-> Merit order dispatch
+> Single-clearing price mechanism with merit order dispatch: "Generators prepare bids for particular settlement periods of half-hourly generation, specifying the quantity of generation... and the price at which they are willing to sell it." + "All electricity traded for a particular settlement period is priced equally, and this uniform price represents the bid offered by the highest-bid generator amount those dispatched."
 >
 > "Bidding into the merit order is based on generators' marginal costs"
 
@@ -268,13 +264,15 @@
 
 ### III. Volatility consequences
 
-> "In the absence of overt mechanisms of price stabilisation, spot market price volatility has a propounding chilling effect on renewables investments."
+> "In the absence of overt mechanisms of price stabilisation, spot market price volatility has a profounding chilling effect on renewables investments."
 >
-> "It is in fact not developers themselves who are typically adverse to volatility risk... the decision aversion is usually that of another actor - namely the banker."
+> "It is in fact not developers themselves who are typically averse to volatility risk... the decision aversion is usually that of another actor - namely the banker."
 >
 > "The obstacle is the effect of price volatility on the perceived infeasibility of projects under development... 'bankability'."
+> 
+> Bankability is whether the lender/bank/investors believe the revenue generated from the project will be able to cover the costs of the loan.
 
-### IV. Methods of volatility hedging
+### IV. Conventional generators holding a natural hedge
 
 > "Where conventional plants are developed today in countries which the bulk of electricity is sold through spot markets, the volatility of such markets does not imperil the financing of such plants to anything like the degree that is problematics renewables financing.... Bank's concern with price volatility... is on the downside."
 >
@@ -282,7 +280,7 @@
 >
 > "The use of merit order dispatch and the status of gas as the predominant source of the last unit of dispatched power combine in such a way as to afford a certain symmetry of revenue and cost dynamics for gas-fired generating plants... there is an inherent hedge... Renewables plants enjoy no such hedge."
 
-> "Three main categories of [price stability-oriented] mechanisms exist:" 
+> "Three main categories of [power price, stability-oriented] mechanisms exist:" 
 > - Power Purchase Agreements
 > - Hedging via futures and swaps
 > - Government intervention
@@ -294,17 +292,88 @@
 > "Instruments of government support based on price controls can explicitly provide stability" like FiT and CfD
 
 > When investment costs were high, government support was to subsidise but also to stabilise, "now that renewables are not relatively dear, government support... is designed primarily to stabilise."
->
-> "Should such a blanket [of support] be summarily removed, there would be a distinctively chilling impact on investment appetite."
 
 ### VI. Global market direction
 
 > "The world is moving towards electricity spot markets, price volatility and correspondingly poor visibility around the expected profitability of renewables generation."
->
-> "The result, absent meaningful extrinsic mechanisms of stabilisation, can be dramatic chilling of investment."
 
 ## 7. Eating Itself Alive (To do)
 
-### I. 
+> "What are we able meaningfully to say about the circumstances in which renewables generators do in fact prove to be consistently profitable?... The common feature is effective government support for renewables." (7.I)
 
-> "What are we able meaningfully to say about the circumstances in which renewables generators do in fact prove to be consistently profitable?... The common feature is effective government support for renewables."
+### I. Support creating reliance
+
+> "'[Government support, in the form of tax credits, is],' Buffet said, 'the only reason to build [wind farms]. They don't make sense without the tax credit."
+
+> "Spain introduced a revised suite of feed-in tariffs... the cost of procuring wind turbines and solar modules fell faster than expected... inevitably led to lower wholesale electricity prices than the government had reckoned with... actual rates of return were estimated typically to be between 10 and 15 per cent.... [the Spanish government] therefore took a series of measures aimed at reducing the pressure on the public purse."
+
+> "The understandable attempt by governments to curb windfall profits can end up militating against the very objective behind the introduction of support mechanisms... to incentivize investment in new capacity."
+>
+> "Government policy pertaining to support for renewables can just as easily disincentivize as it can incentivize investment." (7.II)
+
+> "[Government support mechanisms] serve to mitigate revenue and development risk, such mechanisms themselves represent a risk of sorts to continued profitability, since what the government giveth it can also take away."
+
+### II. Normal (Zero) Profit Equilibrium for Generators
+
+> "When strong profits from the development and operating of renewables facilities are... attainable, the confidence to invest that is inspired by such attainability tends rapidly to set in motion actions and events that serve... precisely to render strong profits unattainable."
+
+> "In the renewables sector, entry barriers are low... there is no incumbent monopoly to slow the boom, hence competition mounts briskly and then forecefully drives down returns."
+> 
+> "Insofar as they only enjoy limited monopoly power... with limited barriers to entry, renewables generators struggle to capture incremental cost efficiencies themselves, instead seeing them competed away and passed downstream." (7.V)
+
+> "Government 'support' mechanisms sometimes actively facilitate, even lubricate, the competition-led race to the bottom."
+>
+> "When the UK government auctioned seabed leases for new offshore wind projects, 'fierce competition' among bidders resulted in 'sky-high prices' for seabed rights that will inevitably mean 'slimmer returns'."
+> 
+> When bidding on offshore wind FiTs/CfDs, "the strike prices agreed by winning bidders have fallen faster than the costs of generation have."
+
+### III. Bust after booms and resulting curtailment
+
+> "After a short-lived boom... is oversupply, and a much longer bust... The 'free market' in the generation of renewable energy evidently includes the freedom to overinvest and lose money."
+
+> "We tend also to find comparable short-boom-longer-bust patterns even where pricing is more regulated and capacity investment to some extent is planned... central planners are not necessarily better at coordinating the economy than markets are... [in China and India there is] a hodgepodge of national and provincial rules and guidelines that often do not align with one another."
+
+> "A particularly striking symptom of boom-induced oversupply is the phenomenon of renewable power curtailment."
+> 
+> Curtailment may occur because "renewables generators tend to cluster in areas with cheap land, often far away from centres of demand, and most grid systems... remain incapable of effectively transporting large surpluses of renewable power from the former ares to the latter."
+
+> "Generators [may be] paid only for power that is accepted onto the grid... some generators, perhaps many, will go out of business in such a scenario."
+> 
+> "The UK's renewables generators, mainly in Scotland, have historically been paid full compensation when they are not permitted to generate at their full capacity."
+>
+> "A subsidy has in [the UK] instance been used to resolve a problem rooted in another kind of subsidy... Rather than incentivizing investment in generating capacity in areas of the country close to centres of demand... payment for curtailed generation does the very opposite."
+
+### IV. Normal (Zero) Profit Equilibrium for Investors
+
+> "Returns from renewables projects are not just generally low in absolute terms, but also low in relative terms."
+> 
+> "It is misguided to use relative cost of fossil-fuel-based and renewable power [relative LCOEs] as our principle prism through which to evaluate renewables' prospects."
+> 
+> "The returns ordinarily associated with wind and solar are much lower than lose to which fossil fuel companies are accustomed in their core businesses."
+
+> "The [non-normal] profitability of oil and gas in capitalism is 'externally' fashioned into existance... there is a long history of the industry, governments or a combination of the two... actively assembling monopolistic or oligopolistic control specifically in order to subdie volatility, stabilize profits and encourage investment."
+
+> "A lower cost of capital for developers is a lower return for the providers of capital... [a lower cost of capital, vis a vis lenders] would seem likely to lower, not raise, the likelihood of a project proceeding"
+
+> "Investors returns from financing renewable energy projects have indeed been under significant pressure" 
+> 
+> 1. "...the weak underlying profitability of wind and solar farms themselves"
+> 
+> 2.  "...demand among financial investors for genuinely clean investment opportunities has surged in the past decades."
+> - "More competition in financing such generation activities depress average financier profits... As the desire to finance renewable energy assets grows, the profits attainable from doing so are squeezed commensurately."
+> 
+> - "There is a 'green price premium' [not 'green' risk factor premium] that investors have been willing to pay to increase their exposure to teh asset class."
+>
+> - "Banks and other financiers' willingness to support renewables projects is predicated in part on their willingness to accept sub-par returns as the necessary price of going green."
+
+### V. Cannibalisation/Capture Price
+
+> "Increasingly negative electricity prices are a phenomenon associated principally with renewables."
+> 
+> "The depressive impact... on electricity prices has been particularly notable in countries that use merit order dispatch, which effectively institutionalises the coupling of cost and revenue."
+
+> "The UK governments' support schemes enable renewables firms to generate profitably even at negative prices, and thus incentivise such generators 'to continue to produce when teh marekt is otherwise oversupplied... No subsidy is paid when the generator is not generating, hence there is an opportunity cost for not generating."
+ 
+> "The output of renewables facilities tends to be sold on wholesale markets disproportionately when electricity is cheap."
+> 
+> "The more renewables production that occurs, and the more that often that renewables set market clearing prices, the more broadly exposed renewables generators become to this phenomenon of price (and profit) suppression [especially during periods of high renewables generation]... the cannibalization effect."
